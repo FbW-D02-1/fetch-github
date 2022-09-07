@@ -1,0 +1,17 @@
+[
+  {
+    "firstName": "Darth",
+    "lastName": "Vader",
+    "job": "Father"
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Skywalker",
+    "job": "Jedi"
+  },
+  {
+    "firstName": "The",
+    "lastName": "Emperor",
+    "job": "The Evil"
+  }
+]
