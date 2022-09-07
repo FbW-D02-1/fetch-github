@@ -13,5 +13,15 @@
     "firstName": "The",
     "lastName": "Emperor",
     "job": "The Evil"
+  },
+  {
+    "firstName": "Eleni",
+    "lastName": "The Princess",
+    "job": "The Good"
+  },
+  {
+    "firstName": "Uwe",
+    "lastName": "Wan Kenobi",
+    "job": "Jedi Master"
   }
 ]
